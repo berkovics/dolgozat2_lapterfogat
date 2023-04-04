@@ -1,7 +1,7 @@
 /*
 * File: App.java
 * Author: Berkovics Gellért
-* Copyright: 2021, Berkovics Gellért
+* Copyright: 2023, Berkovics Gellért
 * Group: Szoft I/1/N
 * Date: 2023-04-04
 * Github: https://github.com/berkovics/dolgozat2_lapterfogat.git
