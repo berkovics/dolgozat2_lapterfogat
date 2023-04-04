@@ -5,7 +5,7 @@
 * Group: Szoft I/1/N
 * Date: 2023-04-04
 * Github: https://github.com/berkovics/dolgozat2_lapterfogat.git
-* Licenc: GNU GPL
+* Licenc: JavaFX GUI
 */
 
 import javafx.application.Application;
